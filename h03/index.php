@@ -9,5 +9,13 @@
 </head>
 <body>
 
+<a href="opdracht01.php">opdracht 1</a>
+<a href="opdracht01.2.php">opdracht 1.2</a>
+<a href="opdracht02.php">opdracht 2</a>
+<a href="opdracht03.php">opdracht 3</a>
+<a href="opdracht04.php">opdracht 4</a>
+<a href="opdracht05.php">opdracht 5</a>
+<a href="opdracht06.php">opdracht 6</a>
+<a href="opdracht07.php">opdracht 7</a>
 </body>
 </html>
