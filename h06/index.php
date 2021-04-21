@@ -9,5 +9,8 @@
 </head>
 <body>
 
+<a href="opdracht01.php">opdracht 1 php</a>
+<a href="opdracht02.php">opdracht 2 php</a>
+<a href="resultaat.php">home page</a>
 </body>
 </html>
